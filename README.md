@@ -4,6 +4,6 @@ Dashboard public link-https://public.tableau.com/app/profile/madhumitha.v5905/vi
 
 Story public link-https://public.tableau.com/app/profile/madhumitha.v5905/viz/AnalysisofHousingpriceinmetroareaofIndia/Story2
 
-Video demonstration link- file:///C:/Users/ELCOT/Downloads/VID-20231011-WA0020%20(1).mp4
+Video demonstration link- https://drive.google.com/file/d/1ZbrdD4fEAgcNUDGJLtSkE_tQAgm6cOKv/view?usp=drivesdk
 
 
